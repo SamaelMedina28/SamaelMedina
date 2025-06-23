@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">< | Sam Dev | ></h1>
+<h1 align="center">< | Dev Code | ></h1>
 
 ###
 
