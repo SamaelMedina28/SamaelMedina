@@ -1,38 +1,46 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=%3C%2FDev+Code%3E" alt="Dev Code" />
-</h1>
+<br clear="both">
 
-<h3 align="center">🚀 Desarrollador Full Stack | Estudiante de Ingeniería de Software</h3>
-
-<p align="center">
-  Apasionado por crear soluciones web innovadoras con código limpio y eficiente.<br>
-  Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.
-</p>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="[https://streak-stats.demolab.com?user=tu-usuario&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D](https://avatars.githubusercontent.com/u/80136246?s=400&u=dc789f766132f62452a869dbd3e093f37e2460c3&v=4)" alt="GitHub Streak" />
-  </a>
-</div>
+<h1 align="center">< | Dev Code | ></h1>
 
 ###
 
-<h2 align="center">🛠 Stack Tecnológico</h2>
+<p align="center">Apasionado del desarrollo web<br>Estudiante de Ingenieria En Software con ganas de siempre aprender algo nuevo.</p>
+
+###
+
+<h4 align="center">Tecnologias que manejo:</h4>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <h3>Frontend</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,figma" alt="Frontend technologies" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
   
-  <h3>Backend</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" alt="Backend technologies" />
-  </div>
-  
-  <h3>Herramientas</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,docker" alt="Tools" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40" alt="livewire logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
