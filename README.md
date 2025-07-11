@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=tu-usuario&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="[https://streak-stats.demolab.com?user=tu-usuario&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D](https://avatars.githubusercontent.com/u/80136246?s=400&u=dc789f766132f62452a869dbd3e093f37e2460c3&v=4)" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -36,27 +36,3 @@
   </div>
 </div>
 
-###
-
-<h2 align="center">📈 Estadísticas</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=vision-friendly-dark" />
-</div>
-
-###
-
-<h2 align="center">📫 Contacto</h2>
-
-<p align="center">
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
